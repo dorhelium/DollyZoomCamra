@@ -1,5 +1,7 @@
 # DollyZoomCamra
 This program is a simulated 35mm autofocus dolly zoom camera. The camera provides the ability to select focus point, set sperture size, automatically adjust focal length according to the focus point, and create bizarre dolly zoom cinematic effect. The scene is rendered by averaging multiple renders with the accumulation buffer, and the users can set how many renders to be used.
+
+
  <img src="/dolly.gif">
 
 ## Instruction
