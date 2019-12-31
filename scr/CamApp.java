@@ -11,8 +11,6 @@ import javax.swing.JFrame;
 import mintools.swing.ControlFrame;
 
 /**
- * Assignment 2 
- * 
  * We will use an accumulation buffer (a CPU implementation to avoid 
  * problems with Mac OS) to emulate depth of field of a 35 mm camera.
  * 
@@ -23,8 +21,7 @@ import mintools.swing.ControlFrame;
  * 
  * GPU Gems [2007] has a slightly more recent survey of modern techniques.
  * http://http.developer.nvidia.com/GPUGems/gpugems_ch23.html
- *
- * @author kry
+
  */
 public class A2App {
          
